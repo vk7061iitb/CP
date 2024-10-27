@@ -5,7 +5,6 @@ int main()
 {
     char ch;
 
-    // Track the double-quote ahs been paired or not
     bool is_paired = false;
 
     while (true)
