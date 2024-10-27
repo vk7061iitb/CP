@@ -1,3 +1,5 @@
+// https://onlinejudge.org/external/105/10550.pdf
+
 #include <bits/stdc++.h>
 using namespace std;
 
